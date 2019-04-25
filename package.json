@@ -1,0 +1,25 @@
+{
+  "name": "react-native-simple-slideshow",
+  "version": "1.0.0",
+  "description": "A quick and easy slideshow for react native.",
+  "main": "Slideshow.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GleidsonDaniel/react-native-simple-slideshow.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "slideshow",
+    "simple"
+  ],
+  "author": "Gleidson Daniel <gleidson10daniel@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GleidsonDaniel/react-native-simple-slideshow/issues"
+  },
+  "homepage": "https://github.com/GleidsonDaniel/react-native-simple-slideshow#readme"
+}
